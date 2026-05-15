@@ -1,20 +1,20 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
+    "title": "Training Persiapan Karir Batch 1 UGM",
+    "description": "Pelatihan persiapan karir untuk mahasiswa Fakultas Ekonomi Universitas Garba Menganga (UGM).",
+    "images": ["02 (1).jpg", "02 (2).jpg"],
+    "tech": [],
+    "platforms": [],
     "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "category": "Pelatihan Persiapan Karir"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
+    "title": "Training Persiapan Karir Batch 2 UAT",
+    "description": "Pelatihan Future Career Preparation Batch 2 untuk alumni Universitas Agung Tirto.",
+    "images": ["0111.webp", "01.png"],
+    "tech": [],
+    "platforms": [],
     "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "category": "Pelatihan Persiapan Karir"
   }
 ]

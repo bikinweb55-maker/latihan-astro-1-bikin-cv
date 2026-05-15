@@ -1,26 +1,26 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
+    "company": "Lumina Talenta Consulting",
+    "role": "Konsultan Pengembangan SDM",
     "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "type": "Manager",
+    "description": "Mendampingi klien lembaga pendidikan tinggi dalam merancang & mengimplementasikan program pengembangan karir untuk mahasiswa .",
+    "skills": ["Asesmen Kebutuhan Klien", "Perancangan & Implementasi Modul Pelatihan", "Pelaporan Hasil & Evaluasi", "Digital HRM System"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
+    "company": "Lumina Talenta Consulting",
+    "role": "Recruiter",
     "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "type": "Staff",
+    "description": "Melakukan perekrutan karyawan untuk kebutuhan klien.",
+    "skills": ["Asesmen Psikologis", "Administrasi & Interpretasi Hasil Test", "Digital Based Recruitment System", "Wawancara Berbasis Perilaku", "Pelaporan dan Evaluasi Hasil"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
+    "company": "PT. Garba Hangat Sejahtera ",
+    "role": "HR Staff & Training",
     "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "type": "Staff",
+    "description": "Perekrutan, Penilaian Kinerja, & Training.",
+    "skills": ["Prosedur Perekrutan Karyawan", "Administrasi & Interpretasi Psikotest", "Perancangan & Implementasi Modul Pelatihan", "Digital HRM System"]
   }
 ]
